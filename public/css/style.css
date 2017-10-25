@@ -1,0 +1,26 @@
+#footer{
+	margin-top: 30px;
+	padding: 10px;
+	color: #fff;
+	background: #292961;
+}
+
+
+
+.navbar-inverse{
+	background-color: #292961!important;
+}
+
+.btn-info {
+    color: #ffffff;
+    background-color: #292961 !important;
+    border-color: transparent;
+
+}
+.btn {
+	font-size: 11px;
+}
+
+table, th, td {
+    padding-left:7%!important;
+}
